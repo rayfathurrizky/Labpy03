@@ -9,7 +9,7 @@ _**Penjelasan Latihan1**_
 ![Screenshot (34)](https://user-images.githubusercontent.com/56881488/68500781-1ee31980-028f-11ea-891c-2ed28fa4c4c0.png)
 
 _**Penjelasan latihan2**_
- 1. anda akan diminta masukan bilangan
+ 1. Anda akan diminta masukan bilangan
  2. Program akan terus mengulang untuk meminta anda memasukkan bilangan. jika dimasukkan 0 program akan dihentikan.
  3. Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input. Untuk mencari bilangan terbesar dari banyaknya bilangan menggunakan fungsi **max.** Berikut hasilnya :
 
