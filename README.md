@@ -8,12 +8,18 @@ _**Penjelasan Latihan1**_
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/56881488/68500781-1ee31980-028f-11ea-891c-2ed28fa4c4c0.png)
 
+_**Flowchart Latihan1**_
+![Screenshot (40)](https://user-images.githubusercontent.com/56881488/68559403-77710d00-046f-11ea-887f-e4276db7e7f6.png)
+
 _**Penjelasan latihan2**_
  1. Anda akan diminta masukan bilangan
  2. Program akan terus mengulang untuk meminta anda memasukkan bilangan. jika dimasukkan 0 program akan dihentikan.
  3. Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input. Untuk mencari bilangan terbesar dari banyaknya bilangan menggunakan fungsi **max.** Berikut hasilnya :
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/56881488/68500782-1ee31980-028f-11ea-9065-48bbf4f41de8.png)
+
+_**Flowchart Latihan2**_
+![Screenshot (41)](https://user-images.githubusercontent.com/56881488/68559404-7809a380-046f-11ea-8c6f-62ef7bfad79c.png)
 
 _**Penjelasan Program1**_
 1. Modal awal pengusaha sebesar 100000000
